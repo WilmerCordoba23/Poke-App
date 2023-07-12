@@ -18,7 +18,7 @@ const CardHeroe = ({ data }) => {
       </div>
 
       <figcaption className="card__caption">
-        <h1 className="card__name">{pokemon.name}</h1>
+        <h1 className="card__name">#{pokemon.id} {pokemon.name}</h1>
 
         <h3 className="card__type">
           {pokemon.types}

@@ -41,7 +41,7 @@ import "./PokemonList.css"
             .filter((abilities) => abilities.is_hidden)
             .map((abilities) => abilities.ability.name)
             .join(', '),
-          types: result.types.map((types) => types.type.name).join(', '),
+          types: result.types.map((types) => types.type.name).join('/'),
           weight: result.weight,
           typeCard: result.types[0].type.name.toLowerCase(),
           hp: result.stats[0].base_stat,
@@ -96,7 +96,7 @@ import "./PokemonList.css"
                 .filter((abilities) => abilities.is_hidden)
                 .map((abilities) => abilities.ability.name)
                 .join(', '),
-              types: result.types.map((types) => types.type.name).join(', '),
+              types: result.types.map((types) => types.type.name).join('/'),
               weight: result.weight,
               typeCard: result.types[0].type.name.toLowerCase(),
               hp: result.stats[0].base_stat,
@@ -154,7 +154,7 @@ import "./PokemonList.css"
           .filter((abilities) => abilities.is_hidden)
           .map((abilities) => abilities.ability.name)
           .join(', '),
-        types: result.types.map((types) => types.type.name).join(', '),
+        types: result.types.map((types) => types.type.name).join('/'),
         weight: result.weight,
         typeCard: result.types[0].type.name.toLowerCase(),
         hp: result.stats[0].base_stat,
