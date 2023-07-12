@@ -19,7 +19,7 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```shell
-git clone <URL_DEL_REPOSITORIO>
+git clone [Poke-App](https://github.com/WilmerCordoba23/Poke-App.git)
 ```
 
 2. Asegúrate de tener Node.js y npm instalados en tu máquina.
@@ -67,7 +67,7 @@ Esta aplicación se encuentra bajo la Licencia MIT. Puedes consultar el archivo 
 
 ## Créditos
 
-Esta aplicación fue creada por [Tu Nombre](https://github.com/WilmerCordoba23).
+Esta aplicación fue creada por [WilmerCordoba23](https://github.com/WilmerCordoba23).
 
 ¡Esperamos que disfrutes utilizando la Aplicación de Búsqueda de Pokémon! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
 
