@@ -19,7 +19,7 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```shell
-git clone [Poke-App](https://github.com/WilmerCordoba23/Poke-App.git)
+git clone https://github.com/WilmerCordoba23/Poke-App.git
 ```
 
 2. Asegúrate de tener Node.js y npm instalados en tu máquina.
