@@ -1,6 +1,6 @@
 # Aplicación de Búsqueda de Pokémon
 
-¡Bienvenido/a a la Aplicación de Búsqueda de Pokémon! Esta es una aplicación web creada con React, HTML, CSS y JSX que te permite explorar y buscar información sobre tus Pokémon favoritos utilizando la API de Pokémon.
+¡Bienvenido/a a la Aplicación de Búsqueda de Pokémon! Esta es una aplicación web creada con React, HTML, CSS y JSX que te permite explorar y buscar información sobre tus Pokémon favoritos utilizando la API de Pokémon. Puedes acceder a la aplicación desplegada en [este enlace](https://poke-app-ten-mu.vercel.app/).
 
 ## Introducción
 
